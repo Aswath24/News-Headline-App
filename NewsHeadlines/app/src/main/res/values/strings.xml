@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Headlines</string>
+    <string name="title_activity_display_news">Display News</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_main_activity">Main Activity</string> <!-- Added string resource -->
+    <string name="title_activity_login">Login</string>
+</resources>
